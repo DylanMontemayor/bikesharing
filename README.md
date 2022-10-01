@@ -1,5 +1,5 @@
 # bikesharing
-##Overview of the Module 14 Challenge
+## Overview of the Module 14 Challenge
 
 Bike usage has increased during the last years because of the increase in awareness about the environment and the advantage of doing some exercise while getting around. The next report shows the behavior of a bike-sharing program that demonstrates the viability of duplicating their model to Des Moines. 
 
