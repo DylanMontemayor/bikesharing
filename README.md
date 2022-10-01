@@ -7,7 +7,7 @@ Bike usage has increased during the last years because of the increase in awaren
 
 NYC_CitiBike_Challenge.ipynb
 
-[Link to the Challenge 14 Tableau Visualizations](https://public.tableau.com/views/Book2_16645893137060/CheckoutTimesforUsers?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+[Link to the Challenge 14 Tableau Visualizations](https://public.tableau.com/views/Bikesharing_16645901263930/Bike-SharingTripAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ## Results
 
