@@ -5,12 +5,9 @@ Bike usage has increased during the last years because of the increase in awaren
 
 ### Folders and Link
 
--Jupyter notebook file
 NYC_CitiBike_Challenge.ipynb
 
--Tableau Public Link
-
-[link to dashboard](https://public.tableau.com/views/Book2_16645893137060/CheckoutTimesforUsers?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+[Link to the Challenge 14 Tableau Visualizations](https://public.tableau.com/views/Book2_16645893137060/CheckoutTimesforUsers?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 ## Results
 
